@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260509-190824-f1f3",
+      "title": "Clone Goes Brr",
+      "commanders": [
+        "Clone Goes Brr"
+      ],
+      "dateStart": "2026-05-09T18:08:24.000Z",
+      "dateEnd": "2026-05-09T20:07:54.000Z",
+      "dateLabel": "5/9/2026, 7:08:24 PM - 5/9/2026, 9:07:54 PM",
+      "url": "https://aminegw2-cpu.github.io/amine/?report=20260509-190824-f1f3",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 28,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 38,
+        "avgEnemySize": 42
+      }
+    },
+    {
       "id": "20260509-034425-m05p",
       "title": "Ânother Ele, Reven The Big Show",
       "commanders": [
