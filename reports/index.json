@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260509-202716-fhgw",
+      "title": "Clone Goes Brr",
+      "commanders": [
+        "Clone Goes Brr"
+      ],
+      "dateStart": "2026-05-09T19:27:16.000Z",
+      "dateEnd": "2026-05-09T20:08:31.000Z",
+      "dateLabel": "5/9/2026, 8:27:16 PM - 5/9/2026, 9:08:31 PM",
+      "url": "https://aminegw2-cpu.github.io/amine/?report=20260509-202716-fhgw",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 37,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 38,
+        "avgEnemySize": 41
+      }
+    },
+    {
       "id": "20260509-191345-0a7f",
       "title": "Clone Goes Brr",
       "commanders": [
