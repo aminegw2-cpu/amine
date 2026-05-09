@@ -1,7 +1,32 @@
 {
-  "colorPalette": "crimson-red",
+  "colorPalette": "gold-bronze",
   "glassSurfaces": false,
+  "glassmorphic": false,
   "entries": [
+    {
+      "id": "20260509-034425-m05p",
+      "title": "Ânother Ele, Reven The Big Show",
+      "commanders": [
+        "Ânother Ele",
+        "Reven The Big Show"
+      ],
+      "dateStart": "2026-05-09T02:44:25.000Z",
+      "dateEnd": "2026-05-09T04:18:56.000Z",
+      "dateLabel": "5/9/2026, 3:44:25 AM - 5/9/2026, 5:18:56 AM",
+      "url": "https://aminegw2-cpu.github.io/amine/?report=20260509-034425-m05p",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 23,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 40,
+        "avgEnemySize": 64
+      }
+    },
     {
       "id": "20260508-193154-5qid",
       "title": "Princess Donye",
