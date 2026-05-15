@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260515-193726-ueth",
+      "title": "Eternal Beta",
+      "commanders": [
+        "Eternal Beta"
+      ],
+      "dateStart": "2026-05-15T18:37:26.000Z",
+      "dateEnd": "2026-05-15T19:58:18.000Z",
+      "dateLabel": "5/15/2026, 7:37:26 PM - 5/15/2026, 8:58:18 PM",
+      "url": "https://aminegw2-cpu.github.io/amine/?report=20260515-193726-ueth",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 23,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 41,
+        "avgEnemySize": 53
+      }
+    },
+    {
       "id": "20260509-202716-fhgw",
       "title": "Clone Goes Brr",
       "commanders": [
