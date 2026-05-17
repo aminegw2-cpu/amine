@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260517-081936-j08d",
+      "title": "Megavaans",
+      "commanders": [
+        "Megavaans"
+      ],
+      "dateStart": "2026-05-17T07:19:36.000Z",
+      "dateEnd": "2026-05-17T08:32:07.000Z",
+      "dateLabel": "5/17/2026, 8:19:36 AM - 5/17/2026, 9:32:07 AM",
+      "url": "https://aminegw2-cpu.github.io/amine/?report=20260517-081936-j08d",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 32,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 32,
+        "avgEnemySize": 48
+      }
+    },
+    {
       "id": "20260515-193726-ueth",
       "title": "Eternal Beta",
       "commanders": [
