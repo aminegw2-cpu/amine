@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260521-201158-4tpg",
+      "title": "Serban No Stab",
+      "commanders": [
+        "Serban No Stab"
+      ],
+      "dateStart": "2026-05-21T19:11:58.000Z",
+      "dateEnd": "2026-05-21T19:58:41.000Z",
+      "dateLabel": "5/21/2026, 8:11:58 PM - 5/21/2026, 8:58:41 PM",
+      "url": "https://aminegw2-cpu.github.io/amine/?report=20260521-201158-4tpg",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 31,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 31,
+        "avgEnemySize": 31
+      }
+    },
+    {
       "id": "20260517-081936-j08d",
       "title": "Megavaans",
       "commanders": [
