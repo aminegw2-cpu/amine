@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260522-203313-hymf",
+      "title": "Glozellasaurus",
+      "commanders": [
+        "Glozellasaurus"
+      ],
+      "dateStart": "2026-05-22T19:33:13.000Z",
+      "dateEnd": "2026-05-22T20:21:49.000Z",
+      "dateLabel": "5/22/2026, 8:33:13 PM - 5/22/2026, 9:21:49 PM",
+      "url": "https://aminegw2-cpu.github.io/amine/?report=20260522-203313-hymf",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Edge of the Mists",
+            "value": 29,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 40,
+        "avgEnemySize": 39
+      }
+    },
+    {
       "id": "20260522-122712-y02z",
       "title": "Etheelll, I Karn Command U, Karn A Train",
       "commanders": [
