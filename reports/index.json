@@ -4,6 +4,31 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260522-122712-y02z",
+      "title": "Etheelll, I Karn Command U, Karn A Train",
+      "commanders": [
+        "Etheelll",
+        "I Karn Command U",
+        "Karn A Train"
+      ],
+      "dateStart": "2026-05-22T11:27:12.000Z",
+      "dateEnd": "2026-05-22T12:40:14.000Z",
+      "dateLabel": "5/22/2026, 12:27:12 PM - 5/22/2026, 1:40:14 PM",
+      "url": "https://aminegw2-cpu.github.io/amine/?report=20260522-122712-y02z",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 21,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 19,
+        "avgEnemySize": 30
+      }
+    },
+    {
       "id": "20260521-201158-4tpg",
       "title": "Serban No Stab",
       "commanders": [
