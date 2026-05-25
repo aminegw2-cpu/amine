@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260525-200123-kr29",
+      "title": "Princess Donye",
+      "commanders": [
+        "Princess Donye"
+      ],
+      "dateStart": "2026-05-25T19:01:23.000Z",
+      "dateEnd": "2026-05-25T19:58:10.000Z",
+      "dateLabel": "5/25/2026, 8:01:23 PM - 5/25/2026, 8:58:10 PM",
+      "url": "https://aminegw2-cpu.github.io/amine/?report=20260525-200123-kr29",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Edge of the Mists",
+            "value": 14,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 42,
+        "avgEnemySize": 40
+      }
+    },
+    {
       "id": "20260522-203313-hymf",
       "title": "Glozellasaurus",
       "commanders": [
