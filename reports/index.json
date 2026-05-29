@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260529-200956-gv2t",
+      "title": "Clone Goes Brr",
+      "commanders": [
+        "Clone Goes Brr"
+      ],
+      "dateStart": "2026-05-29T19:09:56.000Z",
+      "dateEnd": "2026-05-29T20:03:47.000Z",
+      "dateLabel": "5/29/2026, 8:09:56 PM - 5/29/2026, 9:03:47 PM",
+      "url": "https://aminegw2-cpu.github.io/amine/?report=20260529-200956-gv2t",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 30,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 34,
+        "avgEnemySize": 57
+      }
+    },
+    {
       "id": "20260525-200123-kr29",
       "title": "Princess Donye",
       "commanders": [
