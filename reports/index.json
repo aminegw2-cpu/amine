@@ -4,6 +4,39 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260607-190001-9sqr",
+      "title": "Eternal Beta",
+      "commanders": [
+        "Eternal Beta"
+      ],
+      "dateStart": "2026-06-07T18:00:01.000Z",
+      "dateEnd": "2026-06-07T20:03:00.000Z",
+      "dateLabel": "6/7/2026, 7:00:01 PM - 6/7/2026, 9:03:00 PM",
+      "url": "https://aminegw2-cpu.github.io/amine/?report=20260607-190001-9sqr",
+      "summary": {
+        "borderlandsPct": 0.38235294117647056,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 13,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Obsidian Sanctum",
+            "value": 12,
+            "color": "#64748b"
+          },
+          {
+            "name": "Edge of the Mists",
+            "value": 9,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 20,
+        "avgEnemySize": 27
+      }
+    },
+    {
       "id": "20260606-152021-ckgi",
       "title": "Eternal Beta",
       "commanders": [
