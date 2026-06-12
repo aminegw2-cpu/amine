@@ -4,6 +4,23 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260612-191949-erf6",
+      "title": "Domivfz",
+      "commanders": [
+        "Domivfz"
+      ],
+      "dateStart": "2026-06-12T18:19:49.000Z",
+      "dateEnd": "2026-06-12T19:41:05.000Z",
+      "dateLabel": "6/12/2026, 7:19:49 PM - 6/12/2026, 8:41:05 PM",
+      "url": "https://aminegw2-cpu.github.io/amine/?report=20260612-191949-erf6",
+      "summary": {
+        "borderlandsPct": null,
+        "mapSlices": [],
+        "avgSquadSize": 0,
+        "avgEnemySize": 0
+      }
+    },
+    {
       "id": "20260607-190001-9sqr",
       "title": "Eternal Beta",
       "commanders": [
