@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260619-194358-t8me",
+      "title": "Domivfz",
+      "commanders": [
+        "Domivfz"
+      ],
+      "dateStart": "2026-06-19T18:43:58.000Z",
+      "dateEnd": "2026-06-19T19:39:07.000Z",
+      "dateLabel": "6/19/2026, 7:43:58 PM - 6/19/2026, 8:39:07 PM",
+      "url": "https://aminegw2-cpu.github.io/amine/?report=20260619-194358-t8me",
+      "summary": {
+        "borderlandsPct": 0.84,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 21,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Obsidian Sanctum",
+            "value": 4,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 42,
+        "avgEnemySize": 48
+      }
+    },
+    {
       "id": "20260618-201303-dsu7",
       "title": "Eternal Beta",
       "commanders": [
