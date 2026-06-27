@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260627-131835-uj3u",
+      "title": "Dronalys",
+      "commanders": [
+        "Dronalys"
+      ],
+      "dateStart": "2026-06-27T12:18:35.000Z",
+      "dateEnd": "2026-06-27T13:22:18.000Z",
+      "dateLabel": "6/27/2026, 1:18:35 PM - 6/27/2026, 2:22:18 PM",
+      "url": "https://aminegw2-cpu.github.io/amine/?report=20260627-131835-uj3u",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 27,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 22,
+        "avgEnemySize": 61
+      }
+    },
+    {
       "id": "20260619-194358-t8me",
       "title": "Domivfz",
       "commanders": [
