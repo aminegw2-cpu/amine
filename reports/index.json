@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260702-152337-d0qg",
+      "title": "Serban No Stab",
+      "commanders": [
+        "Serban No Stab"
+      ],
+      "dateStart": "2026-07-02T14:23:37.000Z",
+      "dateEnd": "2026-07-02T15:14:58.000Z",
+      "dateLabel": "7/2/2026, 3:23:37 PM - 7/2/2026, 4:14:58 PM",
+      "url": "https://aminegw2-cpu.github.io/amine/?report=20260702-152337-d0qg",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 12,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 28,
+        "avgEnemySize": 46
+      }
+    },
+    {
       "id": "20260628-201017-hr6r",
       "title": "Assú Míng",
       "commanders": [
