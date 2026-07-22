@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260722-020536-4ovk",
+      "title": "Çondó",
+      "commanders": [
+        "Çondó"
+      ],
+      "dateStart": "2026-07-22T01:05:36.000Z",
+      "dateEnd": "2026-07-22T02:55:27.000Z",
+      "dateLabel": "7/22/2026, 2:05:36 AM - 7/22/2026, 3:55:27 AM",
+      "url": "https://aminegw2-cpu.github.io/amine/?report=20260722-020536-4ovk",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Obsidian Sanctum",
+            "value": 33,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 43,
+        "avgEnemySize": 40
+      }
+    },
+    {
       "id": "20260717-191448-bgkc",
       "title": "Lan Firebrand",
       "commanders": [
