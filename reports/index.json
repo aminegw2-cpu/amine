@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260723-201450-ii5j",
+      "title": "Eternal Beta",
+      "commanders": [
+        "Eternal Beta"
+      ],
+      "dateStart": "2026-07-23T19:14:50.000Z",
+      "dateEnd": "2026-07-23T19:58:07.000Z",
+      "dateLabel": "7/23/2026, 8:14:50 PM - 7/23/2026, 8:58:07 PM",
+      "url": "https://aminegw2-cpu.github.io/amine/?report=20260723-201450-ii5j",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Edge of the Mists",
+            "value": 15,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 20,
+        "avgEnemySize": 20
+      }
+    },
+    {
       "id": "20260723-191526-1vhx",
       "title": "Eternal Beta",
       "commanders": [
