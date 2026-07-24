@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260724-202835-6e6u",
+      "title": "Pêrmâ",
+      "commanders": [
+        "Pêrmâ"
+      ],
+      "dateStart": "2026-07-24T19:28:35.000Z",
+      "dateEnd": "2026-07-24T20:09:35.000Z",
+      "dateLabel": "7/24/2026, 8:28:35 PM - 7/24/2026, 9:09:35 PM",
+      "url": "https://aminegw2-cpu.github.io/amine/?report=20260724-202835-6e6u",
+      "summary": {
+        "borderlandsPct": 0.5588235294117647,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 19,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Obsidian Sanctum",
+            "value": 15,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 37,
+        "avgEnemySize": 47
+      }
+    },
+    {
       "id": "20260723-201450-ii5j",
       "title": "Eternal Beta",
       "commanders": [
