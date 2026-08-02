@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260802-201128-mmvf",
+      "title": "Serban No Stab",
+      "commanders": [
+        "Serban No Stab"
+      ],
+      "dateStart": "2026-08-02T19:11:28.000Z",
+      "dateEnd": "2026-08-02T19:48:52.000Z",
+      "dateLabel": "8/2/2026, 8:11:28 PM - 8/2/2026, 8:48:52 PM",
+      "url": "https://aminegw2-cpu.github.io/amine/?report=20260802-201128-mmvf",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 20,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 16,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 29,
+        "avgEnemySize": 36
+      }
+    },
+    {
       "id": "20260730-201714-44sz",
       "title": "Eternal Beta",
       "commanders": [
