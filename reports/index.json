@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260804-195747-7xe9",
+      "title": "Kilmqge",
+      "commanders": [
+        "Kilmqge"
+      ],
+      "dateStart": "2026-08-04T18:57:47.000Z",
+      "dateEnd": "2026-08-04T19:51:23.000Z",
+      "dateLabel": "8/4/2026, 7:57:47 PM - 8/4/2026, 8:51:23 PM",
+      "url": "https://aminegw2-cpu.github.io/amine/?report=20260804-195747-7xe9",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 26,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 35,
+        "avgEnemySize": 45
+      }
+    },
+    {
       "id": "20260802-201128-mmvf",
       "title": "Serban No Stab",
       "commanders": [
