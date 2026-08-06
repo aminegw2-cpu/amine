@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260806-190906-zhm1",
+      "title": "Eternal Beta",
+      "commanders": [
+        "Eternal Beta"
+      ],
+      "dateStart": "2026-08-06T18:09:06.000Z",
+      "dateEnd": "2026-08-06T18:59:29.000Z",
+      "dateLabel": "8/6/2026, 7:09:06 PM - 8/6/2026, 7:59:29 PM",
+      "url": "https://aminegw2-cpu.github.io/amine/?report=20260806-190906-zhm1",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 15,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 20,
+        "avgEnemySize": 34
+      }
+    },
+    {
       "id": "20260804-195747-7xe9",
       "title": "Kilmqge",
       "commanders": [
