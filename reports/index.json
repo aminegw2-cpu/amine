@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260809-201512-sawm",
+      "title": "Eternal Beta",
+      "commanders": [
+        "Eternal Beta"
+      ],
+      "guild": {
+        "id": "DC61BACD-0B99-EF11-8465-068565E44296",
+        "name": "Falcon Team",
+        "tag": "taka"
+      },
+      "dateStart": "2026-08-09T19:15:12.000Z",
+      "dateEnd": "2026-08-09T20:00:18.000Z",
+      "dateLabel": "8/9/2026, 8:15:12 PM - 8/9/2026, 9:00:18 PM",
+      "url": "https://aminegw2-cpu.github.io/amine/?report=20260809-201512-sawm",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Edge of the Mists",
+            "value": 18,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 20,
+        "avgEnemySize": 20
+      }
+    },
+    {
       "id": "20260806-200759-1aj2",
       "title": "Eternal Beta",
       "commanders": [
