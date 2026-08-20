@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260820-201613-29za",
+      "title": "Eight Point Zero",
+      "commanders": [
+        "Eight Point Zero"
+      ],
+      "guild": {
+        "id": "00000000-0000-0000-0000-000000000000",
+        "name": null,
+        "tag": null
+      },
+      "dateStart": "2026-08-20T19:16:13.000Z",
+      "dateEnd": "2026-08-20T20:01:49.000Z",
+      "dateLabel": "8/20/2026, 8:16:13 PM - 8/20/2026, 9:01:49 PM",
+      "url": "https://aminegw2-cpu.github.io/amine/?report=20260820-201613-29za",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Edge of the Mists",
+            "value": 14,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 40,
+        "avgEnemySize": 40
+      }
+    },
+    {
       "id": "20260817-195938-si1u",
       "title": "Weertosaurus Keks",
       "commanders": [
