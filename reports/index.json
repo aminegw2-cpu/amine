@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260823-203505-02vt",
+      "title": "Wells Goes Brrrr",
+      "commanders": [
+        "Wells Goes Brrrr"
+      ],
+      "guild": {
+        "id": "7448E0E2-0332-EE11-81B7-AD7CCA945DAC",
+        "name": "Notorîous",
+        "tag": "BiG"
+      },
+      "dateStart": "2026-08-23T19:35:05.000Z",
+      "dateEnd": "2026-08-23T20:06:56.514Z",
+      "dateLabel": "8/23/2026, 8:35:05 PM - 8/23/2026, 9:06:56 PM",
+      "url": "https://aminegw2-cpu.github.io/amine/?report=20260823-203505-02vt",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "World vs World",
+            "value": 13,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 30,
+        "avgEnemySize": 30
+      }
+    },
+    {
       "id": "20260823-085741-e90n",
       "title": "Dronalys",
       "commanders": [
