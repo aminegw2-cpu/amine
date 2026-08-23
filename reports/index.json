@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260823-085741-e90n",
+      "title": "Dronalys",
+      "commanders": [
+        "Dronalys"
+      ],
+      "guild": {
+        "id": "7448E0E2-0332-EE11-81B7-AD7CCA945DAC",
+        "name": "Notorîous",
+        "tag": "BiG"
+      },
+      "dateStart": "2026-08-23T07:57:41.000Z",
+      "dateEnd": "2026-08-23T08:49:20.959Z",
+      "dateLabel": "8/23/2026, 8:57:41 AM - 8/23/2026, 9:49:20 AM",
+      "url": "https://aminegw2-cpu.github.io/amine/?report=20260823-085741-e90n",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 13,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 49,
+        "avgEnemySize": 58
+      }
+    },
+    {
       "id": "20260821-201441-b3ui",
       "title": "Dronalys",
       "commanders": [
