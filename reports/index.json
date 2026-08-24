@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260824-211318-41f8",
+      "title": "L Ê S S",
+      "commanders": [
+        "L Ê S S"
+      ],
+      "guild": {
+        "id": "7448E0E2-0332-EE11-81B7-AD7CCA945DAC",
+        "name": "Notorîous",
+        "tag": "BiG"
+      },
+      "dateStart": "2026-08-24T20:13:18.000Z",
+      "dateEnd": "2026-08-24T21:12:43.079Z",
+      "dateLabel": "8/24/2026, 9:13:18 PM - 8/24/2026, 10:12:43 PM",
+      "url": "https://aminegw2-cpu.github.io/amine/?report=20260824-211318-41f8",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 33,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 29,
+        "avgEnemySize": 70
+      }
+    },
+    {
       "id": "20260823-203505-02vt",
       "title": "Wells Goes Brrrr",
       "commanders": [
