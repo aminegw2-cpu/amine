@@ -4,6 +4,35 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260825-202153-gwc6",
+      "title": "Shaman Donye, Wojték",
+      "commanders": [
+        "Shaman Donye",
+        "Wojték"
+      ],
+      "guild": {
+        "id": "7448E0E2-0332-EE11-81B7-AD7CCA945DAC",
+        "name": "Notorîous",
+        "tag": "BiG"
+      },
+      "dateStart": "2026-08-25T19:21:53.000Z",
+      "dateEnd": "2026-08-25T19:53:11.129Z",
+      "dateLabel": "8/25/2026, 8:21:53 PM - 8/25/2026, 8:53:11 PM",
+      "url": "https://aminegw2-cpu.github.io/amine/?report=20260825-202153-gwc6",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "World vs World",
+            "value": 13,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 49,
+        "avgEnemySize": 41
+      }
+    },
+    {
       "id": "20260825-202153-eezb",
       "title": "Shaman Donye",
       "commanders": [
