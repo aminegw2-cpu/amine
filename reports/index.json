@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260827-201600-qum5",
+      "title": "Diamond Legend",
+      "commanders": [
+        "Diamond Legend"
+      ],
+      "guild": {
+        "id": "DC61BACD-0B99-EF11-8465-068565E44296",
+        "name": "Falcon Team",
+        "tag": "taka"
+      },
+      "dateStart": "2026-08-27T19:16:00.000Z",
+      "dateEnd": "2026-08-27T20:03:11.619Z",
+      "dateLabel": "8/27/2026, 8:16:00 PM - 8/27/2026, 9:03:11 PM",
+      "url": "https://aminegw2-cpu.github.io/amine/?report=20260827-201600-qum5",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Edge of the Mists",
+            "value": 19,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 20,
+        "avgEnemySize": 20
+      }
+    },
+    {
       "id": "20260827-191410-6y8q",
       "title": "Diamond Legend",
       "commanders": [
