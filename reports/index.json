@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260827-191410-6y8q",
+      "title": "Diamond Legend",
+      "commanders": [
+        "Diamond Legend"
+      ],
+      "guild": {
+        "id": "DC61BACD-0B99-EF11-8465-068565E44296",
+        "name": "Falcon Team",
+        "tag": "taka"
+      },
+      "dateStart": "2026-08-27T18:14:10.000Z",
+      "dateEnd": "2026-08-27T19:00:51.669Z",
+      "dateLabel": "8/27/2026, 7:14:10 PM - 8/27/2026, 8:00:51 PM",
+      "url": "https://aminegw2-cpu.github.io/amine/?report=20260827-191410-6y8q",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Edge of the Mists",
+            "value": 12,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 20,
+        "avgEnemySize": 22
+      }
+    },
+    {
       "id": "20260825-202153-gwc6",
       "title": "Shaman Donye, Wojték",
       "commanders": [
