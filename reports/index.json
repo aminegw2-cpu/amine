@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260828-201312-o4hj",
+      "title": "Dronalys",
+      "commanders": [
+        "Dronalys"
+      ],
+      "guild": {
+        "id": "7448E0E2-0332-EE11-81B7-AD7CCA945DAC",
+        "name": "Notorîous",
+        "tag": "BiG"
+      },
+      "dateStart": "2026-08-28T19:13:12.000Z",
+      "dateEnd": "2026-08-28T20:04:27.989Z",
+      "dateLabel": "8/28/2026, 8:13:12 PM - 8/28/2026, 9:04:27 PM",
+      "url": "https://aminegw2-cpu.github.io/amine/?report=20260828-201312-o4hj",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Edge of the Mists",
+            "value": 16,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 42,
+        "avgEnemySize": 41
+      }
+    },
+    {
       "id": "20260827-201600-qum5",
       "title": "Diamond Legend",
       "commanders": [
