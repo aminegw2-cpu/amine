@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260829-195654-6vxs",
+      "title": "Grizblie",
+      "commanders": [
+        "Grizblie"
+      ],
+      "guild": {
+        "id": "7448E0E2-0332-EE11-81B7-AD7CCA945DAC",
+        "name": "Notorîous",
+        "tag": "BiG"
+      },
+      "dateStart": "2026-08-29T18:56:54.000Z",
+      "dateEnd": "2026-08-29T19:57:12.181Z",
+      "dateLabel": "8/29/2026, 7:56:54 PM - 8/29/2026, 8:57:12 PM",
+      "url": "https://aminegw2-cpu.github.io/amine/?report=20260829-195654-6vxs",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Edge of the Mists",
+            "value": 20,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 48,
+        "avgEnemySize": 44
+      }
+    },
+    {
       "id": "20260828-201312-o4hj",
       "title": "Dronalys",
       "commanders": [
