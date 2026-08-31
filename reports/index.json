@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260831-023016-elol",
+      "title": "Ebs Nine",
+      "commanders": [
+        "Ebs Nine"
+      ],
+      "guild": {
+        "id": "1D589CCE-656C-ED11-8465-02315AB41281",
+        "name": "Meter Monkeys",
+        "tag": "PUMP"
+      },
+      "dateStart": "2026-08-31T01:30:16.000Z",
+      "dateEnd": "2026-08-31T02:16:28.838Z",
+      "dateLabel": "8/31/2026, 2:30:16 AM - 8/31/2026, 3:16:28 AM",
+      "url": "https://aminegw2-cpu.github.io/amine/?report=20260831-023016-elol",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 24,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 39,
+        "avgEnemySize": 43
+      }
+    },
+    {
       "id": "20260829-195654-6vxs",
       "title": "Grizblie",
       "commanders": [
