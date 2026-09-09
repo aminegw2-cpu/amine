@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260909-200933-j2jk",
+      "title": "Mr Bobbels",
+      "commanders": [
+        "Mr Bobbels"
+      ],
+      "guild": {
+        "id": "DC61BACD-0B99-EF11-8465-068565E44296",
+        "name": "Falcon Team",
+        "tag": "taka"
+      },
+      "dateStart": "2026-09-09T19:09:33.000Z",
+      "dateEnd": "2026-09-09T20:00:26.979Z",
+      "dateLabel": "9/9/2026, 8:09:33 PM - 9/9/2026, 9:00:26 PM",
+      "url": "https://aminegw2-cpu.github.io/amine/?report=20260909-200933-j2jk",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Edge of the Mists",
+            "value": 15,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 25,
+        "avgEnemySize": 24
+      }
+    },
+    {
       "id": "20260906-194722-n3rt",
       "title": "Eternal Beta",
       "commanders": [
