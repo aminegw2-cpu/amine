@@ -4,6 +4,39 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260916-202417-l5iz",
+      "title": "Mr Bobbels",
+      "commanders": [
+        "Mr Bobbels"
+      ],
+      "guild": {
+        "id": "DC61BACD-0B99-EF11-8465-068565E44296",
+        "name": "Falcon Team",
+        "tag": "taka"
+      },
+      "dateStart": "2026-09-16T19:24:17.000Z",
+      "dateEnd": "2026-09-16T19:58:28.498Z",
+      "dateLabel": "9/16/2026, 8:24:17 PM - 9/16/2026, 8:58:28 PM",
+      "url": "https://aminegw2-cpu.github.io/amine/?report=20260916-202417-l5iz",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 33,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 18,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 24,
+        "avgEnemySize": 45
+      }
+    },
+    {
       "id": "20260913-202640-kgrb",
       "title": "Eternal Beta",
       "commanders": [
