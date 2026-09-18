@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260918-200533-vs65",
+      "title": "Five Point Five Com",
+      "commanders": [
+        "Five Point Five Com"
+      ],
+      "guild": {
+        "id": "19201AB5-A0F2-E911-81B7-C3B1C0E42B51",
+        "name": "Plague Division",
+        "tag": "RATS"
+      },
+      "dateStart": "2026-09-18T19:05:33.000Z",
+      "dateEnd": "2026-09-18T19:55:26.451Z",
+      "dateLabel": "9/18/2026, 8:05:33 PM - 9/18/2026, 8:55:26 PM",
+      "url": "https://aminegw2-cpu.github.io/amine/?report=20260918-200533-vs65",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 30,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 41,
+        "avgEnemySize": 48
+      }
+    },
+    {
       "id": "20260917-201221-h6zv",
       "title": "Eternal Beta",
       "commanders": [
