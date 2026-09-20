@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260920-192930-39ib",
+      "title": "Eternal Beta",
+      "commanders": [
+        "Eternal Beta"
+      ],
+      "guild": {
+        "id": "DC61BACD-0B99-EF11-8465-068565E44296",
+        "name": "Falcon Team",
+        "tag": "taka"
+      },
+      "dateStart": "2026-09-20T18:29:30.000Z",
+      "dateEnd": "2026-09-20T19:10:12.775Z",
+      "dateLabel": "9/20/2026, 7:29:30 PM - 9/20/2026, 8:10:12 PM",
+      "url": "https://aminegw2-cpu.github.io/amine/?report=20260920-192930-39ib",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 17,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 24,
+        "avgEnemySize": 27
+      }
+    },
+    {
       "id": "20260918-200533-vs65",
       "title": "Five Point Five Com",
       "commanders": [
