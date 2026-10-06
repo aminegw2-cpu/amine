@@ -1,9 +1,37 @@
 {
   "colorPalette": "gold-bronze",
+  "axiTheme": "default",
+  "glass": false,
   "glassSurfaces": false,
-  "glassmorphic": false,
-  "axiDesign": false,
   "entries": [
+    {
+      "id": "20261006-195149-kr0u",
+      "title": "Tiny Zud",
+      "commanders": [
+        "Tiny Zud"
+      ],
+      "guild": {
+        "id": "518DA20E-4697-E311-8BA5-AC162DAAE275",
+        "name": "Kazokú",
+        "tag": "Kazo"
+      },
+      "dateStart": "2026-10-06T18:51:49.000Z",
+      "dateEnd": "2026-10-06T19:49:50.514Z",
+      "dateLabel": "10/6/2026, 7:51:49 PM - 10/6/2026, 8:49:50 PM",
+      "url": "https://aminegw2-cpu.github.io/amine/?report=20261006-195149-kr0u",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 32,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 46,
+        "avgEnemySize": 48
+      }
+    },
     {
       "id": "20261001-195419-bfi5",
       "title": "Verkovy The Mystic",
