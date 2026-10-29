@@ -5,6 +5,34 @@
   "glassSurfaces": false,
   "entries": [
     {
+      "id": "20261029-203243-i0jv",
+      "title": "Eternal Beta",
+      "commanders": [
+        "Eternal Beta"
+      ],
+      "guild": {
+        "id": "DC61BACD-0B99-EF11-8465-068565E44296",
+        "name": "Falcon Team",
+        "tag": "taka"
+      },
+      "dateStart": "2026-10-29T19:32:43.000Z",
+      "dateEnd": "2026-10-29T21:00:46.183Z",
+      "dateLabel": "10/29/2026, 8:32:43 PM - 10/29/2026, 10:00:46 PM",
+      "url": "https://aminegw2-cpu.github.io/amine/?report=20261029-203243-i0jv",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "World vs World",
+            "value": 29,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 24,
+        "avgEnemySize": 24
+      }
+    },
+    {
       "id": "20261006-195149-kr0u",
       "title": "Tiny Zud",
       "commanders": [
